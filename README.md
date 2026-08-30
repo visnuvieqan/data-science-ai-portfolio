@@ -1,5 +1,8 @@
 # Data Science & AI Portfolio — Visnu Ejay Baclao
 
+**Full portfolio:** https://vieqan.com/portfolio  
+**Founder profile:** https://vieqan.com/visnu
+
 A portfolio of hands-on projects covering data science, machine learning, data engineering, SQL analytics, exploratory data analysis, and AI engineering.
 
 ## Certifications
